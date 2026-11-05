@@ -30,4 +30,4 @@ MVP
 O piloto proposto é uma marmitaria. A validação com o estabelecimento e a escolha do provedor Pix estão pendentes. A prototipação das interfaces está sendo realizada no Stitch.
 Documentação
 O planejamento detalhado, os requisitos iniciais, as regras de negócio e o roteiro de pesquisa estão no documento abaixo:
-- [Planejamento da Semana 1](./Planejamento/Semana01/Movvi_semana1.docx)
+- [Planejamento da Semana 1](./Planejamento/Semana01)
